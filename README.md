@@ -9,11 +9,10 @@ A passionate final-year Electronics and Communication Engineering student intere
 ## 🚀 About Me
 
 - 🎓 Final-year E&TC student | KLE Technological University, Belgaum
-- 🧠 Working on  Embedded, VLSI, ML, and Real-Time Systems
+- 🧠 Working on Embedded, VLSI, ML, and Real-Time Systems
 - 🔬 Passionate about AI for social impact (student mental health, smart farming)
 - 🛠️ Languages & tools: Python, C, Embedded C, MATLAB, Arduino, ESP32, Git
 - 📈 Currently improving GitHub, coding, and open-source contributions
-
 
 ---
 
@@ -28,7 +27,7 @@ A passionate final-year Electronics and Communication Engineering student intere
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights & Achievements
 
 - ✅ Created a real-time anxiety detection system using ML & Jupyter
 - ✅ Built a crop recommendation system with ESP32 & ThingSpeak
@@ -40,14 +39,21 @@ A passionate final-year Electronics and Communication Engineering student intere
 
 ## 📌 Featured Projects
 
-### [`Anxiety_Prediction_of_Student_Behaviour`](https://github.com/swati2-p/Anxiety_Prediction_of_Student_Behaviour_Based_On_Day-To-Day_Life)
-> Predicts student anxiety using 39 lifestyle/demographic features and ML models
+### [`Anxiety_Prediction_of_Student_Behaviour_Based_On_Day-To-Day_Life`](https://github.com/swati2-p/Anxiety_Prediction_of_Student_Behaviour_Based_On_Day-To-Day_Life)
+> A Jupyter Notebook-based ML model predicting student anxiety using lifestyle indicators
 
-### [`Crop Recommendation System`](https://github.com/swati2-p)
-> Recommends crops based on temperature, humidity, and soil moisture using ESP32 and ML
+### [`Health-Monitoring-System-using-IOT-and-Cloud-Computing`](https://github.com/swati2-p/Health-Monitoring-System-using-IOT-and-Cloud-Computing)
+> IoT and cloud-based real-time patient health tracking system
 
-### [`Seed Dispenser Vehicle`](https://github.com/swati2-p)
-> Smart agricultural vehicle for auto-spacing and seed sowing with IR + microcontroller
+### [`Himrakshak-BUILD-A-CANSAT`](https://github.com/swati2-p/Himrakshak-BUILD-A-CANSAT)
+> A CanSat designed for atmospheric monitoring with sensors and GPS
+
+### [`Lyrically---automatic-synchronization-of-textual-lyrics-to-acoustic-music-signals`](https://github.com/swati2-p/Lyrically---automatic-synchronization-of-textual-lyrics-to-acoustic-music-signals)
+> NLP and audio processing for aligning lyrics with music signals
+
+### [`Generation-Of-Silicon-Wafer-Images-Using-GAN`](https://github.com/swati2-p/Generation-Of-Silicon-Wafer-Images-Using-Generative-Adversarial-Networks)
+> GAN model for generating synthetic silicon wafer images used in VLSI analysis
+
 
 ---
 
@@ -66,9 +72,9 @@ A passionate final-year Electronics and Communication Engineering student intere
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
-📫 Email: **your.email@example.com** (or put a button using `mailto:`)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swati-patil-549a62356)  
+📫 Email: **swatip0218@gmail.com**
 
 ---
 
-> *Built with 💙 by Swati Patil | Let's build smart systems together!*
+> *Built with 💙 by Swati Patil — Let's build smart, impactful systems together!*
