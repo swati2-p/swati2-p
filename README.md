@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Darshan Modekar</h1>
+<h1 align="center">👋 Hi, I'm Swati Patil</h1>
 <h3 align="center">Electronics & Communication Engineer | Embedded Systems Developer | AI/ML & GenAI Enthusiast</h3>
 
 ---
@@ -13,7 +13,7 @@ I’m a passionate and driven final-year **Electronics and Communication Enginee
 - 💻 **Verilog HDL**, **VLSI Design**, and circuit simulation tools
 - 🚀 Currently exploring **DevOps** for intelligent edge computing solutions
 
-📬 **Reach out**: `yourmail@example.com`  
+📬 **Reach out**: `swatip0218@gmail.com`  
 
 ---
 
