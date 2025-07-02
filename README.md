@@ -1,70 +1,74 @@
 <h1 align="center">👋 Hi, I'm Swati Patil</h1>
 
-
----
-
-## 🎓 About Me
-
-I’m a passionate and driven final-year **Electronics and Communication Engineering** undergraduate with hands-on experience in building intelligent embedded systems. My work bridges the gap between **hardware-level programming** and **AI-powered automation**, with a strong foundation in:
-
-- 🔧 **Microcontrollers (8051, ARM Cortex)**, **RTOS**, and **Embedded C**
-- 📡 Real-time sensor integration using **Arduino** and **ESP32**
-- 💡 Applications of **Machine Learning** and **Generative AI** in embedded environments
-- 💻 **Verilog HDL**, **VLSI Design**, and circuit simulation tools
-- 🚀 Currently exploring **DevOps** for intelligent edge computing solutions
-
-📬 **Reach out**: `swatip0218@gmail.com`  
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+<p align="center">
+A passionate final-year Electronics and Communication Engineering student interested in VLSI & Verilog Design, AI/ML, Embedded Systems, and Automation Technologies.
 </p>
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🚀 About Me
 
-- 🔁 Developed real-time embedded systems with **ESP32 integrated with AI models**
-- 🧠 Implemented **GenAI** techniques for automation and predictive analytics
-- 🛠️ Designed and simulated custom **VLSI circuits** using Verilog HDL
-- 🛰️ Active participant in **CanSAT**, **IoT hackathons**, and **hardware design competitions**
-- 🌾 Engineered smart agricultural systems leveraging **sensor networks** and **edge AI**
+- 🎓 Final-year E&TC student | KLE Technological University, Belgaum
+- 🧠 Working on  Embedded, VLSI, ML, and Real-Time Systems
+- 🔬 Passionate about AI for social impact (student mental health, smart farming)
+- 🛠️ Languages & tools: Python, C, Embedded C, MATLAB, Arduino, ESP32, Git
+- 📈 Currently improving GitHub, coding, and open-source contributions
+
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- ✅ Created a real-time anxiety detection system using ML & Jupyter
+- ✅ Built a crop recommendation system with ESP32 & ThingSpeak
+- ✅ Designed a seed-planting vehicle using IR sensors and GPS logic
+- ✅ Participated in national-level innovation exhibitions
+- ✅ Learning Git & GitHub for version control and collaboration
 
 ---
 
 ## 📌 Featured Projects
 
-> *(Will be pinned on GitHub once available)*
+### [`Anxiety_Prediction_of_Student_Behaviour`](https://github.com/swati2-p/Anxiety_Prediction_of_Student_Behaviour_Based_On_Day-To-Day_Life)
+> Predicts student anxiety using 39 lifestyle/demographic features and ML models
 
-- 👨‍🚀 **HimRashak** – Autonomous CanSAT-based data acquisition system  
-- 🤖 **Smart Farming System** – IoT + ML-powered solution using ESP32  
-- 🧠 **Vibration Analyzer** – ML-based fault detection system  
-- 🔬 **Digital Design Suite** – Verilog-based simulation of combinational & sequential circuits  
+### [`Crop Recommendation System`](https://github.com/swati2-p)
+> Recommends crops based on temperature, humidity, and soil moisture using ESP32 and ML
+
+### [`Seed Dispenser Vehicle`](https://github.com/swati2-p)
+> Smart agricultural vehicle for auto-spacing and seed sowing with IR + microcontroller
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanModekar&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanModekar&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swati2-p&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swati2-p&theme=react&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati2-p&layout=compact&theme=react&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_PROFILE)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/YOUR_HANDLE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&style=for-the-badge)](https://DarshanModekar.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swati%20Patil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
+📫 Email: **your.email@example.com** (or put a button using `mailto:`)
 
 ---
+
+> *Built with 💙 by Swati Patil | Let's build smart systems together!*
