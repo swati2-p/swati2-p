@@ -8,11 +8,12 @@ A passionate final-year Electronics and Communication Engineering student intere
 
 ## 🚀 About Me
 
-- 🎓 Final-year E&TC student | KLE Technological University, Belgaum
-- 🧠 Working on Embedded, VLSI, ML, and Real-Time Systems
-- 🔬 Passionate about AI for social impact (student mental health, smart farming)
-- 🛠️ Languages & tools: Python, C, Embedded C, MATLAB, Arduino, ESP32, Git
-- 📈 Currently improving GitHub, coding, and open-source contributions
+-🎓 Final-year E&TC student | KLE Technological University, Belgaum  
+-🔧 Strong interest in VLSI Design, Verilog, and Embedded Systems  
+-🤖 Worked on Machine Learning and Generative AI-based projects  
+-🌐 Well-versed in Computer Networking and Automotive Electronics  
+-🛠️ Skilled in Python, C, Embedded C, MATLAB, Arduino, ESP32, Git  
+-📈 Actively improving GitHub presence, coding skills, and project contributions  
 
 ---
 
