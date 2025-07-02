@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Swati Patil</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems Developer | AI/ML & GenAI Enthusiast</h3>
+
 
 ---
 
